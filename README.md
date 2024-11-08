@@ -12,12 +12,12 @@
 - 🤔 I'm looking for help with Cloud Computing...
 
 - 💬 Ask me about Python, Machine Learning, Deep Learning, DSA...
-
+<br>
 
 ## 🛠 Programming Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,css,php,html,java,mysql,opencv,py" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,md,php,html,java,mysql,opencv,py,pytorch,fortran" />
   </a>
 </p>
 <br>
@@ -25,7 +25,7 @@
 ## 🛠 Other Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,gcp,azure,bootstrap,discord,github,idea,ai,linux,powershell,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,anaconda,aws,gcp,azure,tensorflow,bootstrap,discord,flutter,idea,ai,androidstudio,linux,powershell,pycharm,vscode" />
   </a>
 </p>
 <br>
