@@ -25,7 +25,8 @@
 ## 🛠 Other Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,anaconda,aws,gcp,azure,tensorflow,bootstrap,discord,flutter,idea,ai,androidstudio,linux,powershell,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,anaconda,aws,gcp,azure,tensorflow,ai"/><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,discord,flutter,idea,androidstudio,linux,powershell,pycharm,vscode" />
   </a>
 </p>
 <br>
