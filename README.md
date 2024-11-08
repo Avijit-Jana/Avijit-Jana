@@ -1,9 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Avijit Jana!</h1>
 
-
 <h3 align="center"> 🚀 I'm Passionate and enthusias towards Computer Science and new tech innovations. </h3>
-
 
 ## 😁 About me
 - 👩‍💻 I'm currently working on Data Science Projects...
@@ -14,8 +11,8 @@
 
 - 🤔 I'm looking for help with Cloud Computing...
 
-- 💬 Ask me about Python, Java, Machine Learning, Deep Learning, DSA...
-<br>
+- 💬 Ask me about Python, Machine Learning, Deep Learning, DSA...
+
 
 ## 🛠 Programming Skills
 <p align="center">
