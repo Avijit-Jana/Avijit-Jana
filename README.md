@@ -2,6 +2,8 @@
 
 <h3 align="center"> 🚀 I'm Passionate and enthusias towards Computer Science and new tech innovations. </h3>
 
+![](https://github-profile-trophy.vercel.app/?username=Avijit-Jana&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 😁 About me
 - 👩‍💻 I'm currently working on Data Science Projects...
 
